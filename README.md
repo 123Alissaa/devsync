@@ -1,4 +1,4 @@
-# DevSync 🔧💬
+# DevSync - In progress 🔧💬
 
 **DevSync** is a real-time, GitHub-integrated collaboration platform for development teams. Inspired by tools like Jira, Notion, and Slack — it enables seamless task tracking, live chat, and code-linked project dashboards. Built to showcase system design, full-stack development, and modern web architecture.
 
